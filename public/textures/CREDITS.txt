@@ -1,0 +1,12 @@
+Planetary, solar, lunar, ring, and Milky Way maps by Solar System Scope.
+Source: https://play.solarsystemscope.com/textures/
+License: Creative Commons Attribution 4.0 International.
+https://creativecommons.org/licenses/by/4.0/
+
+The transparent planet previews use spherical projection, added lighting,
+and, for Saturn and Earth, composited ring and cloud layers.
+
+Europa and Titan maps extracted and resized from NASA Visualization Technology
+Applications and Development (VTAD) 3D models. Their previews use added lighting.
+https://science.nasa.gov/resource/europa-3d-model/
+https://science.nasa.gov/resource/titan-3d-model/
